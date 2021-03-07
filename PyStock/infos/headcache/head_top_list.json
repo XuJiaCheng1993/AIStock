@@ -1,0 +1,1 @@
+{"trade_date": "交易日期", "ts_code": "TS代码", "name": "名称", "close": "收盘价", "pct_change": "涨跌幅", "turnover_rate": "换手率", "amount": "总成交额", "l_sell": "龙虎榜卖出额", "l_buy": "龙虎榜买入额", "l_amount": "龙虎榜成交额", "net_amount": "龙虎榜净买入额", "net_rate": "龙虎榜净买额占比", "amount_rate": "龙虎榜成交额占比", "float_values": "当日流通市值", "reason": "上榜理由"}

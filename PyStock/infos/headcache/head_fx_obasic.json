@@ -1,0 +1,1 @@
+{"ts_code": "外汇代码", "name": "名称", "classify": "分类", "exchange": "交易商", "min_unit": "最小交易单位", "max_unit": "最大交易单位", "pip": "最大交易单位", "pip_cost": "点值", "traget_spread": "目标差价", "min_stop_distance": "最小止损距离（点子）", "trading_hours": "交易时间", "break_time": "休市时间"}

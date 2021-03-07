@@ -1,0 +1,1 @@
+{"trade_date": "交易日期", "ts_code": "股票代码", "name": "股票名称", "close": "收盘价", "pct_chg": "涨跌幅", "amp": "振幅", "fc_ratio": "封单金额/日成交金额", "fl_ratio": "封单手数/流通股本", "fd_amount": "封单金额", "first_time": "首次涨停时间", "last_time": "最后封板时间", "open_times": "打开次数", "strth": "涨跌停强度", "limit": "D跌停U涨停"}

@@ -1,0 +1,1 @@
+{"ts_code": "TS代码", "trade_date": "交易日期", "total_mv": "当日总市值（元）", "float_mv": "当日流通市值（元）", "total_share": "当日总股本（股）", "float_share": "当日流通股本（股）", "free_share": "当日自由流通股本（股）", "turnover_rate": "换手率", "turnover_rate_f": "换手率(基于自由流通股本)", "pe": "市盈率", "pe_ttm": "市盈率TTM", "pb": "市净率"}

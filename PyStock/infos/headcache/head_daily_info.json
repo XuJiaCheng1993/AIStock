@@ -1,0 +1,1 @@
+{"trade_date": "交易日期", "ts_code": "市场代码", "ts_name": "市场名称", "com_count": "挂牌数", "total_share": "总股本（亿股）", "float_share": "流通股本（亿股）", "total_mv": "总市值（亿元）", "float_mv": "流通市值（亿元）", "amount": "交易金额（亿元）", "vol": "成交量（亿股）", "trans_count": "成交笔数（万笔）", "pe": "平均市盈率", "tr": "换手率（％），注：深交所暂无此列", "exchange": "交易所（SH上交所 SZ深交所）"}
